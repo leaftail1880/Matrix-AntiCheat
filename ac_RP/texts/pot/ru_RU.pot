@@ -6,35 +6,35 @@
 "X-Generator: PhraseApp (phraseapp.com)\n"
 #: pack.description
 msgid "§7§¶The Supreme Anti-Cheat Solution for Minecraft Bedrock §c(Beta-API required)"
-msgstr ""
+msgstr "§7§¶Превосходный Анти Чит для Minecraft Bedrock §c(требуются Beta-API)"
 
 #: disconnectionScreen.unexpectedPacket
 msgid "§bMatrix §7> §cYou have been temp-kicked.§r"
-msgstr ""
+msgstr "§bMatrix §7> §cВы были временно кикнуты.§r"
 
 #: json.packet
 msgid "§bMatrix §7> §e%1 §gpacket §7(%2) §g received from %3"
-msgstr ""
+msgstr "§bMatrix §7> §e%1 §gпакет §7(%2) §g получен от %3"
 
 #: index.initmodules
 msgid "Intilized %1 module(s) in %2ms."
-msgstr ""
+msgstr "Инициализированно %1 модуля(ей) за %2мс."
 
 #: index.complete
 msgid "Matrix has been completely initialized in %s ms"
-msgstr ""
+msgstr "Matrix полностью инициализировался за %s мс"
 
 #: function.check.title
 msgid "Anti-Cheat setup checking:"
-msgstr ""
+msgstr "Проверка настройки Анти Чита:"
 
 #: function.check.betaapi
 msgid "§gBeta API usage: %s"
-msgstr ""
+msgstr "§gИспользование Beta API: %s"
 
 #: function.check.helpa
 msgid "§7- If the 'Beta API usage' is stated 'FALSE', that's mean the anticheat cannot run the script of the behavior pack."
-msgstr ""
+msgstr "§7- If the 'Beta API usage' is stated 'FALSE', that's mean the anticheat cannot run the script of the behavior pack."
 
 #: function.check.helpb
 msgid "§7- To fix that, please check if you have enabled the 'Beta-API' of your world settings"
